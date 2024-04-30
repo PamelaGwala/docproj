@@ -6,3 +6,4 @@ pugs
 poodles
 chihuahua
 Alaskan Malamute
+Golden Retriever
